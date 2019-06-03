@@ -9,7 +9,7 @@ header {
 	background-color: green;
 	text-shadow: 3px 3px #666;
 	text-align: center;
-	padding-top: 1%;
+	padding-top: 0%;
 }
 
 #wrap {
@@ -38,7 +38,7 @@ h2 {
 }
 
 #menu {
-    width: 500px;
+    width: 700px;
     margin: 20px auto;
     border: 1px solid #222;
     background-color: red;
@@ -206,7 +206,7 @@ section {
 	width: 46%;
 	border: 1px solid black;
 	border-radius: 25px;
-	padding: 20px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
 }
 
 section img {
@@ -220,7 +220,7 @@ aside {
 	width: 46%;
 	border: 1px solid black;
 	border-radius: 25px;
-	padding: 20px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
 }
 
 aside img {
