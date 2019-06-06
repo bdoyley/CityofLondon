@@ -215,6 +215,22 @@ section img {
 	padding-bottom: 1%;
 }
 
+
+section1 {
+	float: left;
+	width: 80%;
+	border: 1px solid black;
+	border-radius: 25px;
+	padding: 10px 10px 10px 10px;
+}
+
+section1 img {
+	float: left;
+	padding-right: 1%;
+	padding-bottom: 1%;
+}
+
+
 aside {
 	float: right;
 	width: 46%;
