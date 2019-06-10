@@ -183,24 +183,6 @@ h2 {
 }
 
 
-
-footer {
-	text-align: center;
-	background-color: green;
-	padding-bottom: 1%;
-}
-
-footer li {
-	display: inline;
-	padding: 1%;
-}
-
-footer a {
-	font: 30px/6 Impact, sans-serif;
-	color: white;
-	text-decoration: none;
-}
-
 section {
 	float: left;
 	width: 46%;
@@ -244,6 +226,41 @@ aside img {
 	padding-right: 1%;
 	padding-bottom: 1%;
 }
+
+footer {
+	text-align: center;
+	background-color: green;
+	padding-bottom: 1%;
+}
+
+footer li {
+	display: inline;
+	padding: 1%;
+}
+
+footer a {
+	font: 30px/6 Impact, sans-serif;
+	color: white;
+	text-decoration: none;
+}
+
+
+.wrapper {
+  display:inline-grid;
+  grid-template-columns: 200px 200px 200px 200px;
+  grid-gap: 10px;
+  background-color: #fff;
+  color: #444;
+}
+
+.box {
+  background-color: #444;
+  color: #fff;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 10%;
+}
+
 
 
 @media screen and (max-width: 768px) {
