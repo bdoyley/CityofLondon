@@ -5,65 +5,71 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<title>City of London</title>
 	<link rel="stylesheet" href="css/layout.css" media="screen"/>
+	<link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah" rel="stylesheet"><!--reference google fonts-->
 </head>
 
 <body>
-<header>
-
-<img src="images/thames.jpg" width="700" height="300" alt="thames"/>
-<h1>City of London</h1>
+<header><h1>City Of London</h1>
+<img src="images/COL.jpg" width="956" height="189" alt="City Of London" alt title="City Of London"/>
 </header>
 
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <ul id="menu">
+	<li><a href="index.html">Home</a></li>
+    <li><a href="residents.html">Residents</a></li>
+	<li><a href="cityhall.html">City Hall</a></li>
+	<li><a href="about.html">About London</a></li>
+	<li><a href="mailto:bsbobstevenson@live.ca">Contact</a></li>
+	</div>
+
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "225px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+
+</script>
+	
 <div id="wrap">
-<ul id="menu">
-		<li><a href="index.html" target="_self">Home</a></li>
-		<li><a href="#">Get involved</a>
-		<ul>
-            <li><a href="consultations.html" target="_self">Consultations</a></li>
-            <li><a href="calendar.html" target="_self">Calendar</a></li>
-            <li><a href="recreation.html" target="_self">Recreation</a></li>
-        </ul>
-		<li><a href="#">Understand Your City</a></li>
-		<li><a href="#">Social Media</a>
-		<ul>
-			<li><a href="https://www.facebook.com/LondonCanada/" target="_self">Facebook</a></li> 
-			<li><a href="https://twitter.com/CityofLdnOnt" target="_self">Twitter</a></li> 
-		</ul>
-</ul>	
 
-
-<h1>Get Involved</h1>
-
+<h1>Here Is London</h1>
 <section>
-	<h2>London, we want to hear from you</h2>
-    <p><img src="images/hear.jpg" width="200" height="150" alt="hear"/>Check out our online engagement tool Get Involved London to learn about current, ongoing and past community consultations.</p>
-	<p>Get Involved London is a place for Londoners to learn about and participate in City projects and initiatives.</p>
-	<p>The City of London has made public engagement a priority in its strategic plan because we see you as a partner with access to information that will help Council make decisions about our future.</p>
-	<p>We’ll show you how to look up events of interest, how you register to speak at committees, and where to find key pieces of information.</p>
-	<p>This page will help you learn how your municipal government works so you can tap into the opportunities to have your say.</p>
-	<p>Londoners want to be informed, connected and engaged. Now you can easily find information and have your say on range of City initiatives.</p>
+    <h2>Get Involved London</h2>
+    <p><img src="images/involved.jpg" width="200" height="150" alt="Get Involved" alt title="Get Involved London"/>In 1996, London Clean & Green originated as a single-day event aimed at gathering volunteers to clean up litter and graffiti in downtown London. Over the years, that event has grown and expanded into a citywide community project that includes hundreds of individual volunteers and involves many community & business groups and the City of London.<br>
+	<a href="https://getinvolved.london.ca/londoncleangreen" target="_blank"><br><em>Get Involved</em></a><br><br>
+	Today, London Clean & Green still organizes the very successful community clean-ups scheduled around Earth Day in April each year, but goes further to promote events and activities in the springtime months that improve the environmental well being of our community!
+
+
+	Londoners want to be informed, connected and engaged. Now you can easily find information and have your say on range of City initiatives. </p>
+    
 </section>
 
 <aside>
-    <h2>Have your say</h2>
-    <p><img src="images/meeting.jpg" width="200" height="150" alt="meetings"/>In order to be given delegation status (request to speak) at a Standing Committee meeting you must make a request in writing to the City Clerk’s Office stating the purpose of your request.  If it falls within the jurisdiction of the City of London we will place the request on the next available agenda for the appropriate Standing Committee. The Standing Committee will then make a recommendation to Municipal Council as to whether or not they wish to receive the delegation at a future meeting of the Standing Committee. </p>
-	<p>If the request is approved by Council the delegation would then be placed on a future agenda of the Standing Committee.</p>
-    <p>Londoners can also speak at a Public Participation Meeting before a Standing Committee. If a Public Participation Meeting is scheduled the public can register to speak prior to the agenda deadline and be listed on the agenda as a delegation, together with a written submission if they have one.  Otherwise the public can just attend the meeting and the Chair of the Standing Committee will recognize them to speak after any individuals who have registered to speak by the agenda deadline.</p>
+	<h2>Don't Miss A Beat</h2>
+	<p><img src="images/calendar.jpg" width="200" height="150" alt="Our Calendar" alt title="Our Calendar"/>In &nbsp &nbsp <a href="https://www.london.ca/Calendar/Pages/default.aspx" target="_blank"><em>Our Calendar</em></a><br>you can find upcoming Public Participation Meetings, Committee and Council meetings and City events. It is updated as events are added, so please check it frequently.<br> ultrices sed, nisl. Curabitur facilisis commodo quam. Donec sodales libero nec lectus. Praesent mattis, orci ut fermentum vestibulum, elit orci posuere lectus, id bibendum dui nisl eget erat. Suspendisse urna magna, euismod sit amet, hendrerit non, semper a, eros. In leo urna, eleifend vitae, viverra nec, interdum at, risus. Pellentesque in dolor et ipsum rhoncus vestibulum. Integer eu enim. Sed nec orci. Ut purus lectus, viverra vel, tincidunt eget, rutrum vel, eros. Aliquam diam. </p>
 </aside>
-
 </div>
+
 <footer>
+<!--<ul>
+<li><a href="#">privacy</a></li>
+<li><a href="#">shipping</a></li>
+<li><a href="#">customer service</a></li>
+<li><a href="mailto:bsbobstevenson@live.ca">contact webmaster</a></li>
+</ul>-->
 
-<div class="wrapper">
-	<div class="box a"><a href="index.html">Home</div>
-	<div class="box b"><a href="https://www.london.ca/city-hall/accessibility/Pages/default.aspx">Accessibility</div>
-	<div class="box c"><a href="https://www.london.ca/pages/partners.aspx">Community Links</div>
-	<div class="box d"><a href="https://www.london.ca/pages/contactus.aspx">Contact Us</div>
-</div>
-
-
-<br>
-<p>&copy; City of London. All Rights Reserved.</p> 
+	<div class="box home"><a href="index.html">Home</a></div>
+	<div class="box header"><a href="residents.html">Residents</a></div>
+	<div class="box sidebar"><a href="cityhall.html">City Hall</a></div>
+	<div class="box content"><a href="about.html">About London</a></div>
+	<div class="box contact"><a href="mailto:bsbobstevenson@live.ca">Contact</a></div>
 </footer>
+
 </body>
 </html>
