@@ -22,3 +22,6 @@ CSS and HTML
 • The site must include a minimum of three pages with navigation working from a menu
 • Content of the website can be taken from the City of London reference given above
 • All styling occurs in the CSS file and each page must have the same look and feel
+
+Grids (line 240-253) - added a 3 column grid for the footer (div class="footer")
+Transitions (line 89-102) - added animation for the submenus
