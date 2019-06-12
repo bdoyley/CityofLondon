@@ -24,4 +24,5 @@ CSS and HTML
 • All styling occurs in the CSS file and each page must have the same look and feel
 
 Grids (line 240-253) - added a 3 column grid for the footer (div class="footer")
+
 Transitions (line 89-102) - added animation for the submenus
