@@ -4,7 +4,7 @@ body {
 }
 
 header {
-	font: 42px/2 Impact, sans-serif;
+	font: 35px/1.5 Impact, sans-serif;
 	color: white;
 	background-color: green;
 	text-shadow: 3px 3px #666;
@@ -19,16 +19,16 @@ header {
 	overflow: auto;
 }
 
-#wrap h1 {
+#wrap > h1 {
 	font: 40px/2 Impact, sans-serif;
-	color: #666;
+	color: black;
 	padding-left: 1%;
 }
 
 
 h2 {
 	font: 32px/1.2 Impact, sans-serif;
-	color: #666;
+	color: green;
 }
 
 #menu, #menu ul {
@@ -188,6 +188,7 @@ section {
 	border: 1px solid black;
 	border-radius: 25px;
 	padding: 10px 10px 10px 10px;
+	margin-bottom: 25px;
 }
 
 section img {
@@ -198,16 +199,18 @@ section img {
 
 section1 {
 	float: left;
-	width: 80%;
+	width: 90%;
 	border: 1px solid black;
 	border-radius: 25px;
 	padding: 10px 10px 10px 10px;
+	margin-bottom: 25px;
 }
 
 section1 img {
 	float: left;
-	padding-right: 1%;
+	padding-right: 2%;
 	padding-bottom: 1%;
+	margin-bottom: 25px;
 }
 
 
@@ -217,6 +220,7 @@ aside {
 	border: 1px solid black;
 	border-radius: 25px;
 	padding: 10px 10px 10px 10px;
+	margin-bottom: 25px;
 }
 
 aside img {
