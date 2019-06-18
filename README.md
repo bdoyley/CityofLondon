@@ -27,7 +27,7 @@ Grids (line 240-253) - added a 3 column grid for the footer (div class="footer")
 
 Transitions (line 89-102) - added animation for the submenus
 
-Child selectors - line 22 - 
+Child selectors - line 22 - changes all H1's within to wrap to red
                   line 83
                   line 105
                   line 148
