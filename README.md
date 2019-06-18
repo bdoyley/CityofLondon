@@ -14,7 +14,7 @@ CSS and HTML
 • Includes but not limited to: Grids, Menus, and Selectors
 • Using two different grid layouts (for example) constitutes 2 concepts
 • Using multiple selectors constitutes multiple concepts
-• You MUST use at least one grid and one menu
+• You MUST use at least one grid and one menu. 
 • Document within your .MD file (see above) the following information:
 • Which concept was utilized
 • Where in the code (both CSS and HTML) it is being used
@@ -22,6 +22,8 @@ CSS and HTML
 • The site must include a minimum of three pages with navigation working from a menu
 • Content of the website can be taken from the City of London reference given above
 • All styling occurs in the CSS file and each page must have the same look and feel
+
+Menu (line 34-183) - contains main headings and dropdowns along with access to other pages.
 
 Grids (line 240-253) - added a 3 column grid for the footer (div class="footer")
 
