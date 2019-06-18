@@ -26,3 +26,12 @@ CSS and HTML
 Grids (line 240-253) - added a 3 column grid for the footer (div class="footer")
 
 Transitions (line 89-102) - added animation for the submenus
+
+Child selectors - line 22 - 
+                  line 83
+                  line 105
+                  line 148
+                  line 152
+                  line 181
+                  line 252
+                  
