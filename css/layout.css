@@ -21,7 +21,7 @@ header {
 
 #wrap > h1 {
 	font: 40px/2 Impact, sans-serif;
-	color: black;
+	color: red;
 	padding-left: 1%;
 }
 
@@ -81,7 +81,7 @@ h2 {
 }
 
 #menu li:hover > a {
-    color: #fafafa;
+    color: yellow;
 }
 
 /* Handle the animation of the submenus */
@@ -105,7 +105,7 @@ h2 {
 #menu li:hover > ul {
     opacity: 1;
     visibility: visible;
-    margin: 0;
+    margin: 25px;
 }
 
 #menu ul ul {
