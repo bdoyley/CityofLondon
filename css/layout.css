@@ -31,6 +31,10 @@ h2 {
 	color: green;
 }
 
+h2 ~ p {
+	font-style: italic;
+}
+
 #menu, #menu ul {
     margin: 0;
     padding: 2px;
