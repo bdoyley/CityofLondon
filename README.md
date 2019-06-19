@@ -29,11 +29,17 @@ Grids (line 240-253) - added a 3 column grid for the footer (div class="footer")
 
 Transitions (line 89-102) - added animation for the submenus
 
-Child selectors - line 22 - changes all H1's within to wrap to red
-                  line 83 - when you hover any menu heading it will change to yellow
-                  line 105 - when you hover over a dropdown the menu shows up 20px lower 
-                  line 148
-                  line 152
-                  line 181
-                  line 252
+Child selector - line 22 (CSS) - changes all H1's within to wrap to red
+                  
+Child selector -  line 83 (CSS) - when you hover any menu heading it will change to yellow
+                  
+Child selector -  line 105 (CSS) - when you hover over a dropdown the menu shows up 20px lower 
+                  
+Child selector -  line 148 (CSS) - when you have over a dropdown option the border size is 3px
+
+Child selector -  line 152 (CSS) - dropdown menu arrow is yellow
+                  
+Child selector -  line 181 (CSS) - bottom dropdown option rounds up when you hover over it
+
+Child selector -  line 252 (CSS) - child of footer setup with background colour, padding and font-size
                   
