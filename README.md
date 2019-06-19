@@ -27,6 +27,8 @@ Menu (line 34-183) - contains main headings and dropdowns along with access to o
 
 Grids (line 240-253) - added a 3 column grid for the footer (div class="footer")
 
+Grid (line 263-276) - 3 column grid with different colour then above one. 
+
 Transitions (line 89-102) - added animation for the submenus
 
 Child selector - line 22 (CSS) - changes all H1's within to wrap to red
