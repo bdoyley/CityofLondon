@@ -42,4 +42,6 @@ Child selector -  line 152 (CSS) - dropdown menu arrow is yellow
 Child selector -  line 181 (CSS) - bottom dropdown option rounds up when you hover over it
 
 Child selector -  line 252 (CSS) - child of footer setup with background colour, padding and font-size
+
+General sibling selector - line 34 - changes everything within p to italics
                   
