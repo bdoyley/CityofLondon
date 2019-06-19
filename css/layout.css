@@ -156,7 +156,7 @@ h2 {
     top: -6px;
     border-left: 6px solid transparent;
     border-right: 6px solid transparent;
-    border-bottom: 6px solid #444;
+    border-bottom: 8px solid yellow;
 }
 
 #menu ul ul li:first-child a:after {
@@ -179,7 +179,7 @@ h2 {
 }
 
 #menu ul li:last-child > a {
-    border-radius: 0 0 3px 3px;
+    border-radius: 0 0 20px 20px;
 }
 
 section {
