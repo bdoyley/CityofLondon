@@ -1,4 +1,4 @@
-# CityofLondon
+﻿# CityofLondon
 
 GitHub
 • Create a new repository named “CityofLondon” which will hold the files for your new website
@@ -23,27 +23,27 @@ CSS and HTML
 • Content of the website can be taken from the City of London reference given above
 • All styling occurs in the CSS file and each page must have the same look and feel
 
-Menu (line 34-183) - contains main headings and dropdowns along with access to other pages.
+1. Menu (line 34-183) - contains main headings and dropdowns along with access to other pages.
 
-Grids (line 240-253) - added a 3 column grid for the footer (div class="footer")
+2. Grids (line 240-253) - added a 3 column grid for the footer (div class="footer")
 
-Grid (line 263-276) - 3 column grid with different colour then above one. 
+3. Grid (line 263-276) - 3 column grid with different colour then above one. 
 
-Transitions (line 89-102) - added animation for the submenus
+4. Transitions (line 89-102) - added animation for the submenus
 
-Child selector - line 22 (CSS) - changes all H1's within to wrap to red
+5. Child selector - line 22 (CSS) - changes all H1's within to wrap to red
                   
-Child selector -  line 83 (CSS) - when you hover any menu heading it will change to yellow
+6. Child selector -  line 83 (CSS) - when you hover any menu heading it will change to yellow
                   
-Child selector -  line 105 (CSS) - when you hover over a dropdown the menu shows up 20px lower 
+7. Child selector -  line 105 (CSS) - when you hover over a dropdown the menu shows up 20px lower 
                   
-Child selector -  line 148 (CSS) - when you have over a dropdown option the border size is 3px
+8. Child selector -  line 148 (CSS) - when you have over a dropdown option the border size is 3px
 
-Child selector -  line 152 (CSS) - dropdown menu arrow is yellow
+9. Child selector -  line 152 (CSS) - dropdown menu arrow is yellow
                   
-Child selector -  line 181 (CSS) - bottom dropdown option rounds up when you hover over it
+10. Child selector -  line 181 (CSS) - bottom dropdown option rounds up when you hover over it
 
-Child selector -  line 252 (CSS) - child of footer setup with background colour, padding and font-size
+11. Child selector -  line 252 (CSS) - child of footer setup with background colour, padding and font-size
 
-General sibling selector - line 34 - changes everything within p to italics
+12. General sibling selector - line 34 - changes everything within p to italics
                   
