@@ -45,7 +45,7 @@ CSS and HTML
 
 11. Child selector -  line 256 (CSS) - child of footer setup with background colour, padding and font-size.
 
-12. General sibling selector - line 34 - changes everything within p to italics.
+12. General sibling selector - line 34 (CSS) - changes everything within p to italics.
                   
 13. Block element - line 125, 139 (CSS) - sub menu items are listed in block form
 
